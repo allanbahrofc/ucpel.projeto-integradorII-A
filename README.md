@@ -9,8 +9,8 @@
 > [ ] Realizar apresentação até 06/10/2023.
 
 > #### Utiliza-se
-> [] C
-> [] MQTT Mosquitto
+> [ ] Linguagem de Programação - C
+> [ ] MQTT Mosquitto
 
 > #### Colaboradores
 > * Rhaniel Farias @rhanielfarias
