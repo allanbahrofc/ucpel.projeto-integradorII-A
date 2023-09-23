@@ -12,6 +12,7 @@
 > - [ ] MQTT Mosquitto
 
 > #### Colaboradores
+> Grupo G7
 > * Rhaniel Farias @rhanielfarias
 > * Allan Bahr @madebyallanbahr
 > * Nicolai Muller
