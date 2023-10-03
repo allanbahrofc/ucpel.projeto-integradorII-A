@@ -1,23 +1,5 @@
-> #### Protocolo MQTT usando C
-> Este projeto é o integrador da minha faculdade, do qual estamos desempenhados em desenvolver uma aplicação que se comunica com o cliente e outro cliente, criando um servidor e o hospedando realizando a confeçção de um chat.
+#### Projeto Integrador II-A
+Este repositório está hospedando os exercicíos realizados par o Projeto Integrador II-A perante documento com os exercícios.
 
-> #### Etapas
-> - [ ] Resolver lista de exercícios disponibilizada pelo professor Giancarlo.
-> - [ ] Resolver resumo das atividades.
-> - [ ] Resolver uma aplicação de comunicação com Protocolo MQTT.
-> - [ ] Realizar apresentação até 06/10/2023.
-
-> #### Utiliza-se
-> - [ ] Linguagem de Programação - C
-> - [ ] MQTT Mosquitto
-
-> #### Colaboradores
-> Grupo G7
-> * Rhaniel Farias @rhanielfarias
-> * Allan Bahr @madebyallanbahr
-> * Nicolai Muller
-> * Mariana Barbier
-> * Anthony Gonçalves 
-> * Rafael Lemke dos Santos
-
-> #### UCPel - Projeto Integrador
+#### Realizado por:
+![https://ucpel.edu.br/img/logo2023.png](Imagem)

@@ -1,1 +1,0 @@
-// Publicador aqui
