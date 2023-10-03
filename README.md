@@ -16,7 +16,7 @@ Este repositório está hospedando os exercicíos realizados para o Projeto Inte
 * Nicolai Muller (Tópicos 1 e 3)
 
 #### Tópicos
-* Tópico 1 - Exercíciios de Lógica de Programação
+* Tópico 1 - Exercícios de Lógica de Programação
 * Tópico 2 - Exercícios de Laços de Repetição
 * Tópico 3 - Exercícios de Estrutura de Dados Homogêneas
 * Tópico 4 - Exercícios de Recursão
