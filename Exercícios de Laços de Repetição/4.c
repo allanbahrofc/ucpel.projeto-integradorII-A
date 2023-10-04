@@ -7,4 +7,15 @@ Escreva um algoritmo para ler valores inteiros e imprimir na tela enquanto o usu
 
 int main()
 {
+    int aux;
+    int counter = 0;
+    int numbers[] = {};
+    do
+    {
+        printf("> ");
+        scanf("%d", &aux);
+        printf("> number: %d", aux);
+        numbers[counter] = aux;
+        counter++;
+    } while (aux < 0 || aux > 0);
 }
