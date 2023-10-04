@@ -43,6 +43,5 @@ int main()
     {
         printf("Obesidade mórbida\n");
     }
-
     return 0;
 }
