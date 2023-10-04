@@ -1,4 +1,4 @@
-![https://static.plataforma.grupoa.education/ucpel/102/course-images/630a309a-bad2-4d83-aa9f-24589a7fe76c.jpeg](https://static.plataforma.grupoa.education/ucpel/102/course-images/630a309a-bad2-4d83-aa9f-24589a7fe76c.jpeg)
+![https://static.plataforma.grupoa.education/ucpel/102/course-images/630a309a-bad2-4d83-aa9f-24589a7fe76c.jpeg](Foto)
 ## Projeto Integrador II-A
 Este repositório está hospedando os exercicíos realizados para o Projeto Integrador II-A perante documento com os exercícios.
 
