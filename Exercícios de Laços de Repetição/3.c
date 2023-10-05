@@ -5,4 +5,13 @@ Escreva um algoritmo para ler valores inteiros e imprimir na tela enquanto o usu
 
 int main()
 {
+  int num;
+
+  while (num != 0) {
+    printf("Digite um valor: ");
+    scanf("%d", &num);
+    printf("%d\n", num);
+  }
+
+  return 0;
 }

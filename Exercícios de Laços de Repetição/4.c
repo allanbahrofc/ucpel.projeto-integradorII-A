@@ -7,15 +7,28 @@ Escreva um algoritmo para ler valores inteiros e imprimir na tela enquanto o usu
 
 int main()
 {
-    int aux;
-    int counter = 0;
-    int numbers[] = {};
+    int aux, valor, maior = 0, menor = 0;
+
     do
     {
-        printf("> ");
-        scanf("%d", &aux);
-        printf("> number: %d", aux);
-        numbers[counter] = aux;
-        counter++;
-    } while (aux < 0 || aux > 0);
+        printf("Digite um valor: ");
+        scanf("%d", &valor);
+
+        if (valor > maior)
+        {
+            maior = valor;
+        }
+
+        if (valor < menor)
+        {
+            menor = valor;
+        }
+
+    } while (valor != 0);
+
+    printf("O maior valor digitado foi %d\n", maior);
+    printf("O menor valor digitado foi %d\n", menor);
+
+    scanf("%d", aux);
+    return 0;
 }
