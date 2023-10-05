@@ -1,7 +1,7 @@
 ## Projeto Integrador II-A
 Este repositório está hospedando os exercicíos realizados para o Projeto Integrador II-A perante documento com os exercícios [aqui](https://docs.google.com/document/d/1OhKpZ3NkLv36RYTRltRiUyc8UfAtnma7esoZuLZ13bc/edit?usp=sharing).
 
-#### Documento-base: [Acessar](https://github.com/rhanielfarias/projeto-integrador-IIA-MQTT)
+#### Repositório da Aplicação MQTT: [Acessar](https://github.com/rhanielfarias/projeto-integrador-IIA-MQTT)
 
 #### (Grupo G7):
 * Allan Bahr
